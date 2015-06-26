@@ -12,6 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*"
+        "p2made/yii2-asset-collection": "4.*"
     },
     "autoload": {
         "psr-4": {
